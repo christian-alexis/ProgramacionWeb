@@ -1,0 +1,156 @@
+div#inicio{
+	width: 1368px;
+	height: 620px;
+	margin: -20px 0px 0px -10px;
+}
+
+div#arriba{
+	background-color: gainsboro;
+	width: 1368px;
+	height: 80px;
+
+}
+div#paginas{
+	width: 700px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: -100px 0px 0px 660px;
+}
+
+div#comida{
+	width: 400px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: -100px 0px 0px 50px;
+
+}
+
+div#imagen_comida{
+	width: 900px;
+	height: 550px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 1px 0px 20px 467px;
+}
+
+div#texto{
+
+	
+	width: 500px;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: -500px 0px 0px 200px;
+
+}
+
+div#menucomida{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 200px;
+}
+
+div#menucomida:hover{
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 200px;
+}
+
+div#promociones{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#promociones:hover{
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#galeria{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#galeria:hover{
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#restaurante{
+	font-size: 25px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 40px 80px 0px 30px;
+}
+
+div#titulo{
+	width: 100000000px;
+	font-size: 25px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: -325px -212px 0px 100px;
+
+}
+
+div#parrafo{
+	font-size: 19px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	margin: -100px 10px 0px -600px;
+
+}
+
+div#img1{
+	margin: 35px 0px 0px 0px; 
+}
+div#img2{
+	margin: 1px 0px -5px 0px; 
+}
+
+div#contactos{
+	font-family:fantasy;
+	width: 600px;
+	height: 180px;
+	margin: -100px 0px 0px 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center; 
+
+}
+
+div#conta{
+	font-size: 19px;
+	font-family:fantasy;
+	margin: -125px 0px 0px 100px;
+}
+
+div#facebook{
+	margin: 40px 0px 0px -250px;
+}
+
+div#what{
+	margin: 40px 0px 0px 125px;
+}
+div#gmail{
+	margin: 40px 0px 0px 120px;
+}
+div#f{
+	margin: 0px 0px 0px -7px;
+
+}
+
+div#w{
+	margin: 0px 0px 0px -20px;
+}
+
+div#g{
+	margin: 0px 0px 0px -50px;
+}
+

@@ -1,0 +1,193 @@
+div#gal{
+    background-color: white;
+    width: 1368px;
+	height: 1800px;
+	margin: -20px 0px 0px -28px;
+}
+
+div#arriba{
+	background-color: gainsboro;
+	width: 1368px;
+	height: 80px;
+
+}
+
+div#paginas{
+	width: 700px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: -100px 0px 0px 660px;
+}
+
+div#principal{
+    font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 200px;
+
+}
+
+
+div#menucomida{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 200px;
+}
+
+div#principal:hover{
+    font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 200px;
+
+}
+
+div#promociones{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#promociones:hover{
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#galeria{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#galeria:hover{
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#comida{
+	width: 400px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: -100px 0px 0px 50px;
+
+}
+div#restaurante{
+    width: 700;
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 40px 80px 0px 30px;
+}
+
+div#img1{
+	margin: 35px 0px 0px 0px; 
+}
+div#foto1{
+    width: 1200px;
+    height: 540px;
+    margin: 20px 0px 0px 90px;
+    background-color: chartreuse;
+}
+div#t1{
+    color: white;
+    font-size: 60px;
+    margin: -550px 0px 0px 440px;
+    background-color: chartreuse;
+}
+div#t2{
+    color: white;
+    font-size: 50px;
+    margin: -20px 0px 0px 340px;
+    background-color: chartreuse;
+}
+div#foto2{
+    width: 1200px;
+    height: 300px;
+    margin: 20px 0px 0px 90px;
+    background-color: white;
+}
+div#foto3{
+    background-color: cadetblue;
+    width: 700px;
+    height: 300px;
+}
+div#foto4{
+    background-color: gainsboro;
+    margin: -300px 0px 0px 725px;
+    width: 475px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 60px;
+    margin: 10px 0px 20px 135px;
+}
+p1{
+    font-size: 19px;
+    font-family:fantasy;
+    
+}
+div#t3{
+margin: 0px 0px 0px 0px;
+width: 440px;
+height: 300px;
+}
+
+div#foto5{
+    width: 1220px;
+    height: 700px;
+    margin: 50px 0px 0px 81px;
+}
+
+div#t4{
+    font-size: 40px;
+    margin: 0px 0px 0px 340px;
+   
+}
+div#foto6{
+    
+    width: 300px;
+    height: 600px;
+    margin-top: -20px
+}
+div#foto7{
+    
+    width: 295px;
+    height: 295px;
+    margin: -600px 0px 0px 310px;
+}
+div#foto8{
+    
+    width: 295px;
+    height: 295px;
+    margin: 10px 0px 0px 310px;
+    
+
+}
+
+div#foto9{
+    background-color: tomato;
+    width: 300px;
+    height: 600px;
+    margin: -600px 0px 0px 615px;
+}
+
+div#foto10{
+    background-color: violet;
+    width: 295px;
+    height: 295px;
+    margin: -600px 0px 0px 925px;
+}
+div#foto11{
+    background-color: yellow;
+    width: 295px;
+    height: 295px;
+    margin: 10px 0px 0px 925px;
+  
+
+}

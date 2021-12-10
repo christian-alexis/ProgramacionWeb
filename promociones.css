@@ -1,0 +1,177 @@
+div#pro{
+    background-image:url(imagenes/fondo.jpg);
+    width: 1368px;
+	height: 1800px;
+	margin: -20px 0px 0px -28px;
+}
+
+div#arriba{
+	background-color: gainsboro;
+	width: 1368px;
+	height: 80px;
+
+}
+
+div#paginas{
+	width: 700px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: -100px 0px 0px 660px;
+}
+
+div#principal{
+    font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 200px;
+
+}
+
+
+div#menucomida{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 200px;
+}
+
+div#principal:hover{
+    font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 200px;
+
+}
+
+div#promociones{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#promociones:hover{
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#galeria{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#galeria:hover{
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#comida{
+	width: 400px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: -100px 0px 0px 50px;
+
+}
+div#restaurante{
+    width: 700;
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 40px 80px 0px 30px;
+}
+
+div#img1{
+	margin: 35px 0px 0px 0px; 
+}
+
+div#titulo{ 
+    color: gold;
+    width: 400px;
+	height: 100px;
+    font-size: 60px;
+	font-family:cursive;
+	margin: 20px 0px 0px 500px;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+div#alimentos{
+    
+    width: 1300px;
+	height: 1500px;
+    margin: 0px 0px 0px 50px;
+	margin-top: 50px;
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
+div#fotosc1{
+	background-color: white;
+	width: 394px;
+	height: 295px;
+	margin: 10px 23px 10px 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-width:thin;
+	border:solid;
+	border-color: gold;
+	-webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+		
+}
+
+
+
+div#c1{
+	margin: -50px 5px 5px 80px;
+}
+
+div#txc1{
+	background-color:gold;
+	color: white;
+	width: 700px;
+	height: 50px;
+	margin: 250px -162px 5px -290px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	-webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   font-family: cursive;
+		
+}
+ div#estrellas{
+	 margin:-187px 5px 5px 80px;
+ }
+
+ div#precio{
+	 background-color: gold;
+	 width: 200px;
+	 height: 60px;
+     margin: -230px 294px 5px -390px;
+	-webkit-border-radius: 15px;
+   	-moz-border-radius: 15px;
+   	border-radius: 15px;
+	color: white;
+    font-family: cursive;
+	}
+div#r{
+    margin: 5px 0px 0px 25px;
+    font-size: 15px;
+
+}
+div#sr{
+    margin: 0px 0px 0px 11px;
+    font-size: 22px;
+	
+
+}
+   

@@ -1,0 +1,234 @@
+div#menu1{
+    background-image:url(imagenes/fondo.jpg);
+    width: 1368px;
+	height: 4920px;
+	margin: -20px 0px 0px -28px;
+}
+
+div#arriba{
+	background-color: gainsboro;
+	width: 1368px;
+	height: 80px;
+
+}
+
+div#paginas{
+	width: 700px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: -100px 0px 0px 660px;
+}
+
+div#principal{
+    font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 200px;
+
+}
+
+
+div#menucomida{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 200px;
+}
+
+div#principal:hover{
+    font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 200px;
+
+}
+
+div#promociones{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#promociones:hover{
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#galeria{
+	font-size: 18px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#galeria:hover{
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 55px 40px 0px 0px;
+}
+
+div#comida{
+	width: 400px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: -100px 0px 0px 50px;
+
+}
+div#restaurante{
+    width: 700;
+	font-size: 22px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 40px 80px 0px 30px;
+}
+
+div#img1{
+	margin: 35px 0px 0px 0px; 
+}
+
+div#titulo{ 
+    width: 400px;
+	height: 100px;
+    
+    font-size: 60px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 20px 0px 0px 500px;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+div#Talimentos{
+    
+    width: 120px;
+	height: 50px;
+    margin: 20px 0px 0px 50px;
+    font-size: 40px;
+	font-family:Arial, Helvetica, sans-serif;
+
+}
+
+div#alimentos{
+    
+    width: 1300px;
+	height: 1000px;
+    margin: 20px 0px 0px 50px;
+	margin-top: 0px;
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
+div#Tbebidas{
+    
+    width: 128px;
+	height: 50px;
+    margin: 100px 0px 0px 50px;
+    font-size: 40px;
+	font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+div#bebidas{
+    
+    width: 1300px;
+	height: 1000px;
+    margin: 20px 0px 0px 50px;
+	margin-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+div#Tpostres{
+    width: 128px;
+	height: 50px;
+    margin: 100px 0px 0px 50px;
+    font-size: 40px;
+	font-family:Arial, Helvetica, sans-serif;
+
+}
+
+div#postres{
+    width: 1300px;
+	height: 1000px;
+    margin: 20px 0px 0px 50px;
+	margin-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+div#Tpaquetes{
+    
+    width: 150px;
+	height: 50px;
+    margin: 100px 0px 0px 50px;
+    font-size: 40px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+div#paquetes{
+    width: 1300px;
+	height: 1000px;
+    margin: 20px 0px 0px 50px;
+	margin-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+
+}
+div#fotosc1{
+	background-color:white;
+	width: 394px;
+	height: 295px;
+	margin: 10px 23px 10px 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-width:thin;
+	border:solid;
+	border-color: black;
+	-webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+		
+}
+
+
+
+div#c1{
+	margin: -50px 5px 5px 80px;
+}
+
+div#txc1{
+	background-color:black;
+	color: white;
+	width: 700px;
+	height: 50px;
+	margin: 250px -162px 5px -290px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	-webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+		
+}
+ div#estrellas{
+	 margin:-250px 5px 5px 80px;
+ }
+
+ div#precio{
+	 background-color: black;
+	 width: 200px;
+	 height: 50px;
+	 margin: -242px 294px 5px -390px;
+	-webkit-border-radius: 15px;
+   	-moz-border-radius: 15px;
+   	border-radius: 15px;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 30px;
+	}
